@@ -1,0 +1,13 @@
+export const GET_ERRORS = "GET_ERRORS";
+export const CLEAR_ERRORS = "CLEAR_ERRORS";
+export const SET_CURRENT_USER = "SET_CURRENT_USER";
+export const GET_PROFİLE = "GET_PROFİLE";
+export const PROFİLE_LOADİNG = "PROFİLE_LOADİNG";
+export const PROFİLE_NOT_FOUND = "PROFİLE_NOT_FOUND";
+export const CLEAR_CURRENT_PROFİLE = "CLEAR_CURRENT_PROFİLE";
+export const GET_PROFILES = "GET_PROFILES";
+export const POST_LOADİNG = "POST_LOADİNG";
+export const GET_POSTS = "GET_POSTS";
+export const GET_POST = "GET_POST";
+export const ADD_POST = "ADD_POST";
+export const DELETE_POST = "DELETE_POST";
